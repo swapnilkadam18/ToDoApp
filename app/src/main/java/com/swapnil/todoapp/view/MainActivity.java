@@ -1,8 +1,10 @@
-package com.swapnil.todoapp;
+package com.swapnil.todoapp.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.swapnil.todoapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
