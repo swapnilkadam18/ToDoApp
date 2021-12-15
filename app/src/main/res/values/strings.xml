@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ToDoApp</string>
+    <string name="str_add_to_do">Add Todo Item</string>
+    <string name="str_login">Login</string>
+    <string name="str_add_title">Add Title</string>
+    <string name="str_add_desc">Add Description</string>
+    <string name="str_daily">daily</string>
+    <string name="str_weekly">weekly</string>
+    <string name="str_save">Save</string>
 </resources>
