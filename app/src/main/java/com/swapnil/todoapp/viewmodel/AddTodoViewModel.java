@@ -57,6 +57,6 @@ public class AddTodoViewModel extends ViewModel implements ViewModelCallback {
 
     @Override
     public void onDbFetchSuccess(List<TodoEntity> entities) {
-
+        //do nothing
     }
 }
